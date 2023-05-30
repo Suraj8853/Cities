@@ -3,6 +3,7 @@ Bangalore
 Hubli
 Belgaum
 Mysore
+gadag
 
 --Maharashtra Cities
 Mumbai 
