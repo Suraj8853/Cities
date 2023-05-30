@@ -10,3 +10,5 @@ Pune
 Kolhapur
 Dharasiv
 Nashik
+Karwar
+Udupi
